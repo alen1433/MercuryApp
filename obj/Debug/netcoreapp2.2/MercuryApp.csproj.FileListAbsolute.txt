@@ -1,0 +1,14 @@
+C:\Users\Ceceg\Desktop\MercuryApp\bin\Debug\netcoreapp2.2\MercuryApp.deps.json
+C:\Users\Ceceg\Desktop\MercuryApp\bin\Debug\netcoreapp2.2\MercuryApp.runtimeconfig.json
+C:\Users\Ceceg\Desktop\MercuryApp\bin\Debug\netcoreapp2.2\MercuryApp.runtimeconfig.dev.json
+C:\Users\Ceceg\Desktop\MercuryApp\bin\Debug\netcoreapp2.2\MercuryApp.dll
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.csprojAssemblyReference.cache
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.csproj.CoreCompileInputs.cache
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.RazorAssemblyInfo.cache
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.RazorAssemblyInfo.cs
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.AssemblyInfoInputs.cache
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.AssemblyInfo.cs
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ceceg\Desktop\MercuryApp\bin\Debug\netcoreapp2.2\MercuryApp.pdb
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.dll
+C:\Users\Ceceg\Desktop\MercuryApp\obj\Debug\netcoreapp2.2\MercuryApp.pdb
